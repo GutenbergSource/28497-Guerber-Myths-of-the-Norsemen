@@ -1,0 +1,42 @@
+= About This Repository
+
+This repository contains the TEI source file, and derived text and HTML files of an ebook posted to https://www.gutenberg.org/[Project Gutenberg]. Like the version posted to Project Gutenberg, this ebook is free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
+
+The version maintained in this repository may be slightly out-of-sync with the version maintained at Project Gutenberg. Mostly, fixes will be made first here, and only then reposted to Project Gutenberg. When you encounter any issue in this text, please report it here.
+
+== About This Ebook
+
+|===
+|Field |Value
+
+|Title |Myths of the Norsemen: From the Eddas and Sagas
+|Short title |Myths of the Norsemen
+|Author |Hélène Adeline Guerber (1859–1929)
+|Illustrator |Gilbert Bayes (1872–1953)
+|Illustrator |Nils Johan Olsson Blommér (1816–1853)
+|Illustrator |Edward Coley Burne-Jones (1833–1898)
+|Illustrator |Konrad Dielitz (1845–1933)
+|Illustrator |John Charles Dollman (1851–1934)
+|Illustrator |Albert Gustaf Aristides Edelfelt (1854–1905)
+|Illustrator |Knut Ekwall (1843–1912)
+|Illustrator |Bengt Erland Fogelberg (1786–1854)
+|Illustrator |Gertrude Demain Hammond (1862–1952)
+|Illustrator |Mabel Dorothy Hardy (1868–1937)
+|Illustrator |Hermann Hendrich (1854–1931)
+|Illustrator |Hermann Kaulbach (1846–1909)
+|Illustrator |Johan August Malmström (1829–1901)
+|Illustrator |Johan Peter Molin (1814–1873)
+|Illustrator |Severin Nilsson (1846–1918)
+|Illustrator |Carl Gustaf Qvarnström, (1810–1867)
+|Illustrator |Jacques Reich (1852–1923)
+|Illustrator |Charles Prosper Sainton (1861–1914)
+|Illustrator |Jacques Wagrez (1850–1946)
+|Illustrator |Bernard Evans Ward (1857–1933)
+|Illustrator |Oscar Arnold Wergeland (1844–1910)
+|Illustrator |Patten Wilson (1868–1928)
+|Illustrator |Mårten Eskil Winge (1825–1896)
+|Publisher |Project Gutenberg, Urbana, Illinois, USA., 2009-04-05
+|Publication date |2009-04-05
+|Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net].
+|PG Ebook Number |https://www.gutenberg.org/ebooks/28497[28497]
+|===
